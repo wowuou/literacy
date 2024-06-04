@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日本の四季とその特徴</title>
+</head>
+<body>
+
+    <h1>日本の四季とその特徴</h1>
+
+    <h2>四季</h2>
+    <ul>
+        <li>春</li>
+        <li>夏</li>
+        <li>秋</li>
+        <li>冬</li>
+    </ul>
+
+    <h2>各季節の代表的な行事</h2>
+    <ol>
+        <li>春：花見</li>
+        <li>夏：花火大会</li>
+        <li>秋：紅葉狩り</li>
+        <li>冬：雪祭り</li>
+    </ol>
+
+    <h2>各季節の特徴</h2>
+    <dl>
+        <dt>春</dt>
+        <dd>暖かくなり、桜が咲く季節。</dd>
+        <dt>夏</dt>
+        <dd>暑くなり、海や山でのレジャーが盛ん。</dd>
+        <dt>秋</dt>
+        <dd>涼しくなり、紅葉が美しい季節。</dd>
+        <dt>冬</dt>
+        <dd>寒くなり、雪が降る地域もある。</dd>
+    </dl>
+
+</body>
+</html>
